@@ -15,7 +15,7 @@ weight: 3
 
 ![cover](obsidian_cover.png)
 
-# Публикация статей через Obsidian
+# Пупу статей через Obsidian
 
 {{< hint btc >}}
 Гид подготовил [биткоин абстракцион](https://t.me/bitraction)
